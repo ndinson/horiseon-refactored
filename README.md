@@ -2,6 +2,15 @@
 
 ## Description
 
+## Tasks Completed
+
+### In HTML:
+- Changed the title element to a more concise and descriptive title called "Horiseon Homepage".
+- Replaced elements with semantic elements.
+- Fixed functionality of the navigation bar.
+    
+### In CSS:
+
 ## Installation
 
 N/A
