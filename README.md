@@ -16,20 +16,24 @@ This project is a code refactor for the Horiseon website Homepage. Refactoring i
 ### In CSS:
 - Reorganized CSS so that classes and elements follow a logical structure flow.
 - Consolidated classes for efficiency and simplicity.
+- Renamed CSS selectors to reflect the changes made in HTML.
 - Added comments for organization purposes and to explain refactored changes.
+
+## Links
+
 
 ## Installation
 
-N/A
+Deploy repository containing index.html, README.md, and assets folder (containing CSS and image files) to a web server.
 
 ## Usage
 The deployed application can be viewed through a desktop web browser. However, it is not yet optimized for screen sizes with a resolution smaller than 768px.
 
 The following image shows the up to date appearance and function of the Horiseon Homepage:
 ![Alt text](horiseon-refactored-website.png)
-## Credits
 
-N/A
+## Credits
+- Instructional Staff at the University of Minnesota Coding Bootcamp
 
 ## License
 
