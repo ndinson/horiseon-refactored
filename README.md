@@ -21,6 +21,9 @@ This project is a code refactor for the Horiseon website Homepage. Refactoring i
 
 ## Links
 
+Deployed Website: https://ndinson.github.io/horiseon-refactored
+
+GitHub Code Repository: https://github.com/ndinson/horiseon-refactored
 
 ## Installation
 
