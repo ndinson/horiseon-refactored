@@ -1,23 +1,32 @@
 # horiseon-refactored
 
 ## Description
+This project is a code refactor for the Horiseon website Homepage. Refactoring is done in order to improve the existing code without changing what it does. The refactored changes for this project were made to reflect efficiency, comprehensibility, and accesibility purposes in the code. This also results in a site that is more optimized for search engines.
 
 ## Tasks Completed
 
 ### In HTML:
+- Organized elements to follow a structured logic.
 - Changed the title element to a more concise and descriptive title called "Horiseon Homepage".
 - Replaced elements with semantic elements.
 - Fixed functionality of the navigation bar.
+- Added alt text to images for accessibility.
+- Added comments that explain refactored changes.
     
 ### In CSS:
+- Reorganized CSS so that classes and elements follow a logical structure flow.
+- Consolidated classes for efficiency and simplicity.
+- Added comments for organization purposes and to explain refactored changes.
 
 ## Installation
 
 N/A
 
 ## Usage
+The deployed application can be viewed through a desktop web browser. However, it is not yet optimized for screen sizes with a resolution smaller than 768px.
 
-
+The following image shows the up to date appearance and function of the Horiseon Homepage:
+![Alt text](horiseon-refactored-website.png)
 ## Credits
 
 N/A
